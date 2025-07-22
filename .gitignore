@@ -4,3 +4,5 @@
 "dist/"   # For build folders
 "*.log"   # For log files
 "./server/.env" 
+"./client/node_modules"
+"./server/.env.save"
